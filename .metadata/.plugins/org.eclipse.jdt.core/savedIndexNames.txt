@@ -1,7 +1,4 @@
-INDEX VERSION 1.131+C:\Users\AKN32722\Documents\Learn\learn-spring-hibernate\.metadata\.plugins\org.eclipse.jdt.core
-4016571972.index
-3435648363.index
-2933651814.index
-3025104473.index
-80691297.index
-588001175.index
+INDEX VERSION 1.131+/Users/aidan/dev/learn-spring-hibernate/.metadata/.plugins/org.eclipse.jdt.core
+2324352751.index
+2850546080.index
+4036156016.index
