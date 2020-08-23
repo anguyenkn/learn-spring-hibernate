@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=jpa-crud/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.aidan.springboot.crud.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1598198067000"/>
+    <typeInfo handle="=spring-data-jpa-crud/\/Users\/aidan\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.3.3.RELEASE\/spring-data-jpa-2.3.3.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.3.3.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1598156410000"/>
+    <typeInfo handle="=spring-data-rest-crud/\/Users\/aidan\/.m2\/repository\/org\/springframework\/data\/spring-data-rest-webmvc\/3.3.3.RELEASE\/spring-data-rest-webmvc-3.3.3.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-rest-webmvc=/=/maven.version=/3.3.3.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.data.rest.webmvc.config(RepositoryRestConfigurer.class[RepositoryRestConfigurer" modifiers="1537" timestamp="1598206280000"/>
+</typeInfoHistroy>
